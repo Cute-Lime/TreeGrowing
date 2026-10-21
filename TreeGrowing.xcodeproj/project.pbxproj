@@ -6,8 +6,15 @@
 	objectVersion = 110;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8E05E201308857B200061FCC /* Screenshot.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 8E05E200308857B200061FCC /* Screenshot.tiff */; };
+		8E05E203308857E400061FCC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8E05E202308857E400061FCC /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		8E05E1E83086F6B200061FCC /* TreeGrowing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TreeGrowing.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E05E200308857B200061FCC /* Screenshot.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = Screenshot.tiff; sourceTree = "<group>"; };
+		8E05E202308857E400061FCC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -31,6 +38,8 @@
 			isa = PBXGroup;
 			children = (
 				8E05E1EA3086F6B200061FCC /* TreeGrowing */,
+				8E05E200308857B200061FCC /* Screenshot.tiff */,
+				8E05E202308857E400061FCC /* README.md */,
 				8E05E1E93086F6B200061FCC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -102,6 +111,8 @@
 		8E05E1E63086F6B200061FCC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			files = (
+				8E05E203308857E400061FCC /* README.md in Resources */,
+				8E05E201308857B200061FCC /* Screenshot.tiff in Resources */,
 			);
 		};
 /* End PBXResourcesBuildPhase section */
