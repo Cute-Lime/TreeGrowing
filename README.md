@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/作業-用State設計互動的SwiftUI_App-purple.svg?style=flat-square" alt="Homework" />
   </p>
   <p><b>一個用 SwiftUI State 打造的互動小遊戲：澆水，看種子慢慢長成大樹 🌱➡️🌳</b></p>
-  <p>👉 <a href="">查看 Medium 報告</a></p>
+  <p>👉 <a href="https://medium.com/@peterabc219/43d2fe7c5937">查看 Medium 報告</a></p>
 </div>
 
 ---
@@ -36,4 +36,4 @@
 - 動畫：withAnimation、keyframeAnimator...
 - 非同步與生命週期：Task、sleep、onAppear、await...
 
-📖 **Medium 文章連結：** 👉 [[點此閱讀完整心得報告]]()
+📖 **Medium 文章連結：** 👉 [[點此閱讀完整心得報告]](https://medium.com/@peterabc219/43d2fe7c5937)
